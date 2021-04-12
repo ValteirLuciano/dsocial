@@ -1,0 +1,9 @@
+.idea
+
+*.sqlite3
+
+venv
+
+dsocial/__pycache__
+
+*.pyc
